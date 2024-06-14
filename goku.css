@@ -1,0 +1,42 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+} 
+
+.spidy{
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 250px;
+  text-align: center;
+  box-shadow: 0px 0px 20px black;
+}
+
+.texto{
+  display: block;
+  margin: 0 auto;
+}
+
+.titulo{
+  margin: 0 auto;
+  color: red;
+  border: 10px;
+}
+
+.goku{
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  /* box-shadow: 0px 0px 100px yellow; */
+  filter: drop-shadow(0px 0px 20px yellow);
+}
+
+.boton{
+  display: block;
+  margin: 0 auto;
+  width: 137px;
+  height: 38px;
+  background: red;
+  border-radius: 5px;
+}
